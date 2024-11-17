@@ -1,5 +1,9 @@
 # React + TypeScript + Vite
 
+## Project Link
+
+You can view the project live [here](https://blacksof-h0hgq4zrn-crickets-projects-e98095f4.vercel.app/#).
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -49,7 +53,5 @@ export default tseslint.config({
 })
 ```
 # blacksof
-## Project Link
 
-You can view the project live [here](https://blacksof-h0hgq4zrn-crickets-projects-e98095f4.vercel.app/#).
 
