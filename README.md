@@ -49,5 +49,7 @@ export default tseslint.config({
 })
 ```
 # blacksof
-# Blacksof
-# Blacksof
+## Project Link
+
+You can view the project live [here](https://blacksof-h0hgq4zrn-crickets-projects-e98095f4.vercel.app/#).
+
